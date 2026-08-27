@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+logs/
+outputs/
+data/*.gz
+data/*.bz2
+data/*.bz2.part
+data/*.json
+data/*.csv
